@@ -1,1 +1,2 @@
-hygcg
+wed
+console.log("hello");
